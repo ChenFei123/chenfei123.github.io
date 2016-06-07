@@ -1,0 +1,238 @@
+	<header>
+		<ul>
+			<li>
+				<i class="yo-ico">&#xe628;</i>
+			</li>
+			<li>
+				<input type="text" id="header-txt" placeholder="请输入你想搜索的商品" />
+			</li>
+			<li>
+				<i class="yo-ico">&#xe694;</i>
+				<b>消息</b>
+			</li>
+		</ul>
+	</header>
+	<section id="index-scroll" spa-widget="scroll">
+		<article>
+			<div class="swiper-container banner">
+				<div class="swiper-wrapper">
+					<div class="swiper-slide"><img src="/nong1hao/images/banner1.jpg" /></div>
+					<div class="swiper-slide"><img src="/nong1hao/images/banner1.jpg" /></div>
+					<div class="swiper-slide"><img src="/nong1hao/images/banner1.jpg" /></div>
+				</div>
+				<div class="swiper-pagination"></div>
+			</div>
+			<div class="nav">
+				<ul>
+					<li>
+						<i><img src="/nong1hao/images/wenzhuanjia.png"/></i>
+						<b>问专家</b>
+					</li>
+					<li>
+						<i><img src="/nong1hao/images/maidapai.png"/></i>
+						<b>买大牌</b>
+					</li>
+					<li>
+						<i><img src="/nong1hao/images/wodeyouhuijuan_h.png"/></i>
+						<b>我的优惠劵</b>
+					</li>
+					<li>
+						<i><img src="/nong1hao/images/meiriqiandao.png"/></i>
+						<b>每日签到</b>
+					</li>
+				</ul>
+			</div>
+			<div class="prodect">
+				<ul>
+					<li>
+						<div class="top">
+							<h1>种植套餐</h1>
+							<p>&nbsp;&nbsp;&nbsp;新农道豪华套施宝B适用作物</p>
+						</div>
+						<div>
+							<div class="left1">
+								<img src="/nong1hao/images/meal_free.png" />
+								<b>￥666.00</b>
+								<i>￥826.00</i>
+							</div>
+							<div class="right1">
+								<img src="/nong1hao/images/pro1.jpg" />
+								
+							</div>
+						</div>
+					</li>
+					<li>
+						<div class="top">
+							<h1>种植套餐</h1>
+							<p>&nbsp;&nbsp;&nbsp;新农道豪华套施宝B适用作物</p>
+						</div>
+						<div>
+							<div class="left1">
+								<img src="/nong1hao/images/meal_free.png" />
+								<b>￥666.00</b>
+								<i>￥826.00</i>
+							</div>
+							<div class="right1">
+								<img src="/nong1hao/images/pro1.jpg" />
+								
+							</div>
+						</div>
+					</li>
+				</ul>
+			</div>
+			<div class="prodect">
+				<ul>
+					<li>
+						<div class="top">
+							<h1>种植套餐</h1>
+							<p>&nbsp;&nbsp;&nbsp;新农道豪华套施宝B适用作物</p>
+						</div>
+						<div>
+							<div class="left1">
+								<img src="/nong1hao/images/meal_free.png" />
+								<b>￥666.00</b>
+								<i>￥826.00</i>
+							</div>
+							<div class="right1">
+								<img src="/nong1hao/images/pro1.jpg" />
+								
+							</div>
+						</div>
+					</li>
+					<li>
+						<div class="top">
+							<h1>种植套餐</h1>
+							<p>&nbsp;&nbsp;&nbsp;新农道豪华套施宝B适用作物</p>
+						</div>
+						<div>
+							<div class="left1">
+								<img src="/nong1hao/images/meal_free.png" />
+								<b>￥666.00</b>
+								<i>￥826.00</i>
+							</div>
+							<div class="right1">
+								<img src="/nong1hao/images/pro1.jpg" />
+								
+							</div>
+						</div>
+					</li>
+				</ul>
+			</div>
+			<div class="prodect">
+				<ul>
+					<li>
+						<div class="top">
+							<h1>种植套餐</h1>
+							<p>&nbsp;&nbsp;&nbsp;新农道豪华套施宝B适用作物</p>
+						</div>
+						<div>
+							<div class="left1">
+								<img src="/nong1hao/images/meal_free.png" />
+								<b>￥666.00</b>
+								<i>￥826.00</i>
+							</div>
+							<div class="right1">
+								<img src="/nong1hao/images/pro1.jpg" />
+								
+							</div>
+						</div>
+					</li>
+					<li>
+						<div class="top">
+							<h1>种植套餐</h1>
+							<p>&nbsp;&nbsp;&nbsp;新农道豪华套施宝B适用作物</p>
+						</div>
+						<div>
+							<div class="left1">
+								<img src="/nong1hao/images/meal_free.png" />
+								<b>￥666.00</b>
+								<i>￥826.00</i>
+							</div>
+							<div class="right1">
+								<img src="/nong1hao/images/pro1.jpg" />
+								
+							</div>
+						</div>
+					</li>
+				</ul>
+			</div>
+			<div class="banner-center">
+				<img src="/nong1hao/images/banner.png"/>
+			</div>
+			<div class="prect">
+				<h3>热门商品</h3>
+			</div>
+			<div class="prodects">
+				<ul>
+					<li>
+						<div class="kong"></div>
+						<div class="pic"><img src="/nong1hao/images/pro2.jpg"/></div>
+						<div class="pro-bottom">
+							<p>新农道产品微生物菌剂,适用农作物：果树、</p>
+							<b>￥69.00</b>
+							<span>￥98.00</span>
+						</div>
+					</li>
+					<li>
+						<div class="kong"></div>
+						<div class="pic"><img src="/nong1hao/images/pro2.jpg"/></div>
+						<div class="pro-bottom">
+							<p>新农道产品微生物菌剂,适用农作物：果树、</p>
+							<b>￥69.00</b>
+							<span>￥98.00</span>
+						</div>
+					</li>
+				</ul>
+				
+			</div>
+			<div class="prodects">
+				<ul>
+					<li>
+						<div class="kong"></div>
+						<div class="pic"><img src="/nong1hao/images/pro2.jpg"/></div>
+						<div class="pro-bottom">
+							<p>新农道产品微生物菌剂,适用农作物：果树、</p>
+							<b>￥69.00</b>
+							<span>￥98.00</span>
+						</div>
+					</li>
+					<li>
+						<div class="kong"></div>
+						<div class="pic"><img src="/nong1hao/images/pro2.jpg"/></div>
+						<div class="pro-bottom">
+							<p>新农道产品微生物菌剂,适用农作物：果树、</p>
+							<b>￥69.00</b>
+							<span>￥98.00</span>
+						</div>
+					</li>
+				</ul>
+				
+			</div>
+			<div class="prodects">
+				<ul>
+					<li>
+						<div class="kong"></div>
+						<div class="pic"><img src="/nong1hao/images/pro2.jpg"/></div>
+						<div class="pro-bottom">
+							<p>新农道产品微生物菌剂,适用农作物：果树、</p>
+							<b>￥69.00</b>
+							<span>￥98.00</span>
+						</div>
+					</li>
+					<li>
+						<div class="kong"></div>
+						<div class="pic"><img src="/nong1hao/images/pro2.jpg"/></div>
+						<div class="pro-bottom">
+							<p>新农道产品微生物菌剂,适用农作物：果树、</p>
+							<b>￥69.00</b>
+							<span>￥98.00</span>
+						</div>
+					</li>
+				</ul>
+				
+			</div>
+			<div class="bottomon">
+				
+			</div>
+		</article>
+	</section>

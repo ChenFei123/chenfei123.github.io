@@ -1,0 +1,71 @@
+.shopping{
+  width: 100%;
+  height: 100%;
+   @include flex-direction(column);
+  .header{
+    width: 100%;
+    height: .52rem;
+    @include flexbox();
+    @include align-items(center);
+    @include justify-content(center);
+    background: #F66747;
+    color: #FFF;
+    font-size: .2rem;
+    letter-spacing: .02rem;
+    @include box-sizing(border-box);
+    @include border(0 0 1px 0, #E1E1E1);
+  }
+  .logo{
+    @include flexbox();
+    width: 100%;
+    height: 1.55rem;
+    @include align-items(center);
+    @include justify-content(center);
+    .f1{
+      img{
+        width: 1.1rem;
+        height: .03rem;
+      }
+    }
+    .f2{
+        img{
+          width: .68rem;
+          height: .61rem;
+      }
+    }
+    .f3{
+      img{
+        margin-left: .1rem;
+        width: 1.1rem;
+        height: .03rem;
+      }
+    }
+  }
+  .shoppings{
+    width: 100%;
+    height: .6rem;
+    text-align: center;
+    h1{
+        color: #E0E0E0;
+    }
+  }
+  .bottom-input{
+    width: 100%;
+    height: .4rem;
+    text-align: center;
+    input{
+      width: .85rem;
+      height: .35rem; 
+      color: #646464;
+      line-height: .35rem;
+      text-align: center;
+      font-weight: 600;
+      border: none;
+      border: 1px solid #858585;
+      font-size: .16rem;
+      letter-spacing: .02rem;
+      border-radius: .05rem; 
+      background: #fff;
+    }
+  }
+}

@@ -1,0 +1,24 @@
+<div class="m-index">
+	<div class="m-index-container"></div>
+	<footer>
+		<ul>
+			<li class="active" action-type="switch.view" data-tag="home">
+				<i class="yo-ico">&#xe610;</i>
+				<b>首页</b>
+			</li>
+			<li action-type="switch.view" data-tag="search">
+				<i class="yo-ico">&#xe619;</i>
+				<b>分类</b>
+			</li>
+			<li action-type="switch.view" data-tag="myshopping">
+				<i class="yo-ico">&#xe652;</i>
+				<b>购物车</b>
+			</li>
+			<li data-tag="my" action-type="switch.view">
+				<i class="yo-ico">&#xe605;</i>
+				<b>我的</b>
+			</li>
+		</ul>
+		<!--action-type="exit"-->
+	</footer>
+</div>

@@ -1,0 +1,132 @@
+<div class="search">
+	<header>
+		<input type="text" placeholder="请输入你想购买的商品" />
+	</header>
+	<div class="section">
+		<div class="section-left">
+			<ul>
+				<li class="active" action-type="switch.view1">
+					<img src="/nong1hao/images/huafei.png"/>
+					<h1>化肥</h1>
+				</li>
+				<li action-type="switch.view1">
+					<img src="/nong1hao/images/zhongzi.png"/>
+					<h1>种子</h1>
+				</li>
+				<li action-type="switch.view1">
+					<img src="/nong1hao/images/nongyao.png"/>
+					<h1>农药</h1>
+				</li>
+				<li action-type="switch.view1">
+					<img src="/nong1hao/images/nongji.png"/>
+					<h1>农机</h1>
+				</li>
+			</ul>
+		</div>
+		<div class="section-right">
+			<ul id="liList">
+				<li class="active1">
+					<h3>化肥</h3>
+					<div class="nav-first">
+						<div>硝基肥</div>
+						<div>水溶肥</div>
+						<div>控释肥</div>
+					</div>
+					<div class="nav-first">
+						<div>复合肥</div>
+						<div>叶面肥</div>
+						<div>液体肥</div>
+					</div>
+					<div class="nav-first">
+						<div>单质肥</div>
+						<div>生物菌剂</div>
+						<div>有机肥</div>
+					</div>
+					<div class="nav-first">
+						<div>复合菌肥</div>
+						<div>掺混肥</div>
+						<div>花肥</div>
+					</div>
+					<div class="nav-first">
+						<div>土壤调理剂</div>
+						<div></div>
+						<div></div>
+					</div>
+					<h3>推荐品牌</h3>
+					<div class="list-pic">
+						<div><img src="/nong1hao/images/list1.jpg"/></div>
+						<div><img src="/nong1hao/images/list2.jpg"/></div>
+					</div>
+					<div class="list-pic">
+						<div><img src="/nong1hao/images/list3.jpg"/></div>
+						<div></div>
+					</div>
+				</li>
+				<li>
+					<h3>种子</h3>
+					<div class="nav-first">
+						<div>玉米种子</div>
+						<div>小麦种子</div>
+						<div>蔬菜种子</div>
+					</div>
+					<h3>推荐品牌</h3>
+					<div class="list-pic">
+						<div><img src="/nong1hao/images/list4.jpg"/></div>
+						<div><img src="/nong1hao/images/list5.jpg"/></div>
+					</div>
+					<div class="list-pic">
+						<div><img src="/nong1hao/images/list6.jpg"/></div>
+						<div><img src="/nong1hao/images/list7.jpg"/></div>
+					</div>
+				</li>
+				<li>
+					<h3>农药</h3>
+					<div class="nav-first">
+						<div>除草剂</div>
+						<div>杀菌剂</div>
+						<div>杀虫剂</div>
+					</div>
+					<div class="nav-first">
+						<div>杀螨剂</div>
+						<div></div>
+						<div></div>
+					</div>
+					<h3>推荐品牌</h3>
+					<div class="list-pic">
+						<div><img src="/nong1hao/images/list8.jpg"/></div>
+						<div><img src="/nong1hao/images/list9.jpg"/></div>
+					</div>
+					<div class="list-pic">
+						<div><img src="/nong1hao/images/list10.jpg"/></div>
+						<div></div>
+					</div>
+				</li>
+				<li>
+					<h3>农机具</h3>
+					<div class="nav-first">
+						<div>农机飞行器</div>
+						<div>田园管理机</div>
+						<div>喷雾机</div>
+					</div>
+					<div class="nav-first">
+						<div>割灌机</div>
+						<div>微耕机</div>
+						<div>地灌设备</div>
+					</div>
+					<div class="nav-first">
+						<div>自走式打药
+							<br>机</div>
+						<div></div>
+						<div></div>
+					</div>
+					<h3>推荐品牌</h3>
+					<div class="list-pic">
+						<div><img src="/nong1hao/images/list11.jpg"/></div>
+						<div></div>
+					</div>
+				</li>
+			</ul>
+		</div>
+	</div>
+</div>
+

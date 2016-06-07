@@ -1,0 +1,88 @@
+<div class="my-top1">
+	<ul>
+		<li class="yo-ico">&#xe660;</li>
+		<li>
+			<h1>个人中心</h1></li>
+		<li class="yo-ico">&#xe694;</li>
+	</ul>
+</div>
+<div id="my-scroll" spa-widget="scroll">
+	<article>
+		<div class="my-top2">
+			<ul>
+				<li><img src="/nong1hao/images/touxiang2.png" /></li>
+				<li>
+					<p>15720032030</p>
+				</li>
+				<li><input type="button" value="签到" /></li>
+			</ul>
+		</div>
+		<div class="my-top3">
+			<ul>
+				<li><img src="/nong1hao/images/wodedingdan.png" /></li>
+				<li>
+					<h1>我的订单</h1></li>
+				<li><img src="/nong1hao/images/jiao.jpg" /></li>
+			</ul>
+		</div>
+		<div class="my-top4">
+			<ul>
+				<li><img src="/nong1hao/images/wodejindou.png" /></li>
+				<li>
+					<h1>我的金豆</h1></li>
+				<li><img src="/nong1hao/images/jiao.jpg" /></li>
+			</ul>
+		</div>
+		<div class="my-top3">
+			<ul>
+				<li><img src="/nong1hao/images/wodeyouhuijuan.png" /></li>
+				<li>
+					<h1>我的优惠劵</h1></li>
+				<li><img src="/nong1hao/images/jiao.jpg" /></li>
+			</ul>
+		</div>
+		<div class="my-top3">
+			<ul>
+				<li><img src="/nong1hao/images/wodeshoucang.png" /></li>
+				<li>
+					<h1>评价中心</h1></li>
+				<li><img src="/nong1hao/images/jiao.jpg" /></li>
+			</ul>
+		</div>
+		<div class="my-top3">
+			<ul>
+				<li><img src="/nong1hao/images/haotuiguangyuan.png" /></li>
+				<li>
+					<h1>1号推广员</h1></li>
+				<li><img src="/nong1hao/images/jiao.jpg" /></li>
+			</ul>
+		</div>
+		<div class="my-top4">
+			<ul>
+				<li><img src="/nong1hao/images/zhanghuanquan.png" /></li>
+				<li>
+					<h1>账户安全</h1></li>
+				<li><img src="/nong1hao/images/jiao.jpg" /></li>
+			</ul>
+		</div>
+		<div class="my-top4">
+			<ul>
+				<li><img src="/nong1hao/images/yaoqing.png" /></li>
+				<li>
+					<h1>邀请有礼</h1></li>
+				<li><img src="/nong1hao/images/jiao.jpg" /></li>
+			</ul>
+		</div>
+		<div class="my-top4">
+			<ul>
+				<li><img src="/nong1hao/images/tubiao2.png" /></li>
+				<li>
+					<h1>App绑定推荐人</h1></li>
+				<li><img src="/nong1hao/images/jiao.jpg" /></li>
+			</ul>
+		</div>
+		<div class="my-bottomon">
+				
+		</div>
+	</article>
+</div>

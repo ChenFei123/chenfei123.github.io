@@ -1,0 +1,17 @@
+<div class="shopping">
+	<div class="header">
+		<h1>购物车</h1>
+	</div>
+	<div class="logo">
+		<div class="f1"><img src="/nong1hao/images/xian.png"/></div>
+		<div class="f2"><img src="/nong1hao/images/empertyshop.png"/></div>
+		<div class="f3"><img src="/nong1hao/images/xian.png"/></div>
+	</div>
+	<div class="shoppings">
+		<h1>购物车还是空的</h1>
+		<h1>去挑几件中意的商品吧</h1>
+	</div>
+	<div class="bottom-input">
+		<input type="button" value="去购物" />
+	</div>
+</div> 
